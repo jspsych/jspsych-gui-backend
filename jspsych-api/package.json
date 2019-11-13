@@ -1,0 +1,14 @@
+{
+  "name": "jspsych-api",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.570.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Junyan Qi",
+  "license": "MIT"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "jspsych-gui-backend",
+  "version": "1.0.0",
+  "description": "This project is the backend for https://github.com/jspsych/jsPsych-Redux-GUI, \r and tech stacks include ASW lambda, dynamodb, amplify, s3, api gateway, and node.js.<br/>\r Public APIs:<br/>\r TODO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jspsych/jspsych-gui-backend.git"
+  },
+  "author": "Junyan Qi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jspsych/jspsych-gui-backend/issues"
+  },
+  "homepage": "https://github.com/jspsych/jspsych-gui-backend#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
